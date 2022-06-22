@@ -1,0 +1,5 @@
+Package: SD_ID
+Type: Package
+Title: Signal Processing, steady-state indication of process or economic variables
+Version: 0.0.1.0
+RoxygenNote: 7.1.2
