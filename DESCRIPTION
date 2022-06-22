@@ -1,5 +1,5 @@
-Package: SD_ID
+Package: SSID
 Type: Package
-Title: Signal Processing, steady-state indication of process or economic variables
+Title: SteadyStateIndicator
 Version: 0.0.1.0
 RoxygenNote: 7.1.2
